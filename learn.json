@@ -1,14 +1,14 @@
 {
   "title": {
-    "en": "Machine Learning Python Template",
-    "es": "Plantilla para Aprendizaje de Máquina con Python"
+    "en": "Final Project",
+    "es": "Proyecto final"
   },
   "description": {
-    "us": "A standardized, but flexible project structure for doing and sharing data science and machine learning work.",
-    "es": "Una estructura de proyecto estandarizada, pero flexible, para realizar y compartir trabajos de ciencia de datos y aprendizaje de máquina."
+    "us": "machine learning.",
+    "es": "Entrenamiento de modelos"
   },
-  "repository": "https://github.com/4GeeksAcademy/machine-learning-python-template",
-  "preview": "https://github.com/4GeeksAcademy/machine-learning-python-template/blob/main/preview.jpg?raw=true",
+  "repository": "a",
+  "preview": "b",
   "projectType": "template",
   "difficulty": "beginner",
   "technologies": ["Python", "Machine-Learning", "Datascience", "ai-engineering"]
